@@ -53,16 +53,17 @@ Como alternativas a nuestra página encontramos:
 En general la página web responde correctamente a nuestra interacción con la misma, pero presenta fallos en cuanto a diseño visual y algunos elementos de ayuda son difíciles de encontrar.
 
 Adjuntamos aquí nuestro usability review, mucho más detallado:
+![](docs\Usability.pdf)
 ### Propuesta de rediseño
 
 ### Labelling
 El labelling actual de nuestra página es el siguiente 
 
-(Insertar foto main original)
+![](docs\main_or.png)
 
 Lo que más nos choca es que no nos queda claro de primeras qué es agenda cultural y espacios culturales, además "asóciate" desde el punto de vista del marketing puede ser llamativo, pero no queda claro exactamente qué es. Hemos decidido modificarlo y quedaría de la siguiente manera.
 
-(Insertar foto main modificado)
+![](docs\main_mod.png)
 
 Creemos que de esta forma solucionamos dos cuestiones.
 - Al usar más los sustantivos queda claro cuál es el propósito general de cada apartado. Hemos dejado la excepción de "Sube tu evento" porque nos parecía claro en su propósito.
