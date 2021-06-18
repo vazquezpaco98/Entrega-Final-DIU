@@ -51,8 +51,7 @@ Como alternativas a nuestra página encontramos:
 ### Usability Review
 En general la página web responde correctamente a nuestra interacción con la misma, pero presenta fallos en cuanto a diseño visual y algunos elementos de ayuda son difíciles de encontrar.
 
-Adjuntamos aquí nuestro usability review, mucho más detallado:
-![](docs\Usability.pdf)
+Adjuntamos aquí nuestro [usability review](https://github.com/vazquezpaco98/Entrega_Final_DIU/blob/main/docs/Usability-Review.pdf), mucho más detallado:
 ### Propuesta de rediseño
 
 ### Labelling
