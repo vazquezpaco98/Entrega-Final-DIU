@@ -1,5 +1,4 @@
 # Entrega_Final_DIU
-Francisco Vázquez Ecobar. DIU. 20/21.
 
 # Punto 1: Valoración de aprendizaje adquirido en UI.
 ## Herramientas 
