@@ -14,6 +14,10 @@ También destacaría el descubrimiento de Adobe XD, es una forma rápida e intui
 
 No sólo permite crear fotos fijas para promoción o los clásicos trabajos de diseño gráfico, sino la creación de mockups, una herramienta que desconocía completamente, diría que herramienta comercial, como forma brillante de facilitar la comunicación entre desarrollador y cliente en el proceso de creación del producto. 
 
+Como herramientas auxiliares algo más anecdóticas por no guardar tanta relación con la asignatura, he descubierto XMind, un creador de esquemas muy eficiente. Además el desarrollo de las memorias me ha ayudado a seguir practicando MarkDown o Git.
+
+
+
 ## Habilidades 
 
 Entrando en valoraciones de cómo ha afectado a mis habilidades personales hacia a las interfaces de usuario, destacaría que la asignatura me ha enseñado a identificar y desmenuzar las diferentes partes que componen una interfaz o, directamente, una pantalla o fotograma. Saber evaluarlo de una forma más cualitativa y precisa y no simplemente me gusta / no me gusta, que era lo único que sabía pensar hasta ahora. 
@@ -34,7 +38,8 @@ El problema está en que una persona que conoce el desarrollo de un app, las lim
 
 Por ello me parece fundamental aprender las herramientas para evaluar la apariencia de nuestros productos desde una vista más lejana, no ligada al funcionamiento de la misma (el cual obviamente al usuario le da igual) sino únicamente teniendo en cuenta lo que se ve y lo que no, dónde está situado y si es el mejor sitio para estar.
 
-
+La asignatura también ha tenido la particularidad de desarrollarse en medio de una pandemia, pero el haber hecho hincapié en el trabajo grupal e incluso inter-grupal nos ha permitido también aprender a trabajar online con otros compañeros, con todas las limitaciones que eso tiene. 
+Esto tiene un valor enorme en el mundo laboral y siempre conviene no olvidar trabajar en equipo sea como sea.
 # Punto 2: Caso de Estudio. Web Yuzin.
 
 En esta segunda parte de la entrega vamos a poner en práctica los conocimientos adquiridos haciendo un caso de estudio de la página web Yuzin, que funciona como la versión digital de una revista cultural centrada en Granada y Sevilla.
@@ -73,7 +78,7 @@ Para no representar todo el Wireframe únicamente por cambios en el menú hemos 
 
 A nosotros un diseño con las siguientes características, donde hemos cambiado el menú y reorganizado algunos elementos, nos convence mucho más.
 
-(insertar foto wireframe)
+![](docs\WIREFRAME.png)
 ## Conclusiones 
 
 Como conclusión podríamos decir que esta práctica nos ha permitido repasar y concentrar los conocimientos adquiridos en un proósito final. Creemos que la web en general tiene un diseño correcto pero mejorable y esperamos que nuestra visión haya servido para mejorar las funcionalidades de la web y no emborronarla aún más.
