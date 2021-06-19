@@ -82,7 +82,7 @@ Para no representar todo el Wireframe únicamente por cambios en el menú hemos 
 
 A nosotros un diseño con las siguientes características, donde hemos cambiado el menú y reorganizado algunos elementos, nos convence mucho más.
 
-![](docs\WIREFRAME.png)
+![wireframe](https://github.com/vazquezpaco98/Entrega_Final_DIU/blob/main/docs/WIREFRAME.png)
 ## Conclusiones 
 
 Como conclusión podríamos decir que esta práctica nos ha permitido repasar y concentrar los conocimientos adquiridos en un proósito final. Creemos que la web en general tiene un diseño correcto pero mejorable y esperamos que nuestra visión haya servido para mejorar las funcionalidades de la web y no emborronarla aún más.
