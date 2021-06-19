@@ -66,11 +66,11 @@ Adjuntamos aquí nuestro [usability review](https://github.com/vazquezpaco98/Ent
 ### Labelling
 El labelling actual de nuestra página es el siguiente 
 
-![](docs\main_or.png)
+![label_original](https://github.com/vazquezpaco98/Entrega_Final_DIU/blob/main/docs/main_or.png)
 
 Lo que más nos choca es que no nos queda claro de primeras qué es agenda cultural y espacios culturales, además "asóciate" desde el punto de vista del marketing puede ser llamativo, pero no queda claro exactamente qué es. Hemos decidido modificarlo y quedaría de la siguiente manera.
 
-![](docs\main_mod.png)
+![label_mod](https://github.com/vazquezpaco98/Entrega_Final_DIU/blob/main/docs/main_mod.png)
 
 Creemos que de esta forma solucionamos dos cuestiones.
 - Al usar más los sustantivos queda claro cuál es el propósito general de cada apartado. Hemos dejado la excepción de "Sube tu evento" porque nos parecía claro en su propósito.
