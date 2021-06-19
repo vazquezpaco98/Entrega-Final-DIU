@@ -40,6 +40,10 @@ Por ello me parece fundamental aprender las herramientas para evaluar la aparien
 
 La asignatura también ha tenido la particularidad de desarrollarse en medio de una pandemia, pero el haber hecho hincapié en el trabajo grupal e incluso inter-grupal nos ha permitido también aprender a trabajar online con otros compañeros, con todas las limitaciones que eso tiene. 
 Esto tiene un valor enorme en el mundo laboral y siempre conviene no olvidar trabajar en equipo sea como sea.
+## Retos
+Creo que como continuación a la asignatura debería aprender aunque sea los fundamentos del diseño gráfico para poder desarrollar interfaces decentes aunque no sea mi campo experto, y creo también que debería mejorar en la organización y trabajo previo a la hora de encarar cualquier proyecto orientado al usuario.
+
+Es una asignatura que en conjunto me ha gustado mucho y, por enlazarlo con este apartado en concreto, no sólo por lo que sí ha conseguido enseñarme, sino por abrirme un nuevo campo de conocimiento bastante desconocido por mi parte
 # Punto 2: Caso de Estudio. Web Yuzin.
 
 En esta segunda parte de la entrega vamos a poner en práctica los conocimientos adquiridos haciendo un caso de estudio de la página web Yuzin, que funciona como la versión digital de una revista cultural centrada en Granada y Sevilla.
